@@ -1,0 +1,21 @@
+question,expected_movie,category
+Extractors infiltrate the subconscious of a Japanese businessman to extract secrets,Inception,direct
+A young girl's parents are turned into pigs after eating at an empty restaurant in a spirit world,Spirited Away,direct
+An African-American man meets his white girlfriend's family at their countryside estate,Get Out,direct
+A boy in Mexico is transported to the Land of the Dead to learn about his musician ancestor,Coco,direct
+"A first-year jazz drumming student is pushed to his limits by a famed, abusive conductor",Whiplash,direct
+The Joker robs a Gotham City mob bank while Batman and Harvey Dent try to stop organized crime,The Dark Knight,direct
+Two people go parasailing near a dinosaur island and get stranded after their boat crew vanishes,Jurassic Park III,direct
+A mouse named Stuart questions his abilities after a soccer match with his brother George,Stuart Little 2,direct
+A widow in Brooklyn watches infomercials while her son funds his drug use by pawning her TV,Requiem for a Dream,direct
+A small-town lawyer moonlights as a wrestling coach while struggling to keep his practice afloat,Win Win,direct
+Who escapes with the money after the bank robbery at the start of The Dark Knight?,The Dark Knight,detail
+What instrument does Andrew Neiman play in Whiplash?,Whiplash,detail
+Tell me about a movie where corporate spies enter people's dreams to steal information,Inception,paraphrase
+A movie about a man who slowly realizes his girlfriend's family has a sinister secret,Get Out,paraphrase
+,none,edge_empty
+asdkjasldkjas pizza toaster banana,none,edge_offtopic
+What's the weather like today?,none,edge_offtopic
+Tell me about The Godfather,none,edge_not_in_corpus
+Tell me about La La Land,none,edge_not_in_corpus
+"Tell me about a movie that does not exist in this dataset, like Avengers Endgame",none,edge_not_in_corpus
